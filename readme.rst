@@ -1,7 +1,6 @@
 ###################
-Simple CI Crud + image
+Crud + image
 ###################
-CRUD simple menggunakan Codeigniter dengan upload gambar
 
 
 *******
@@ -17,12 +16,8 @@ Fitur
 Setting
 *******
 a. Buat database bernama crud
-b. import databasenya(crud.sql)
+b. import databasenya(crudimagedb.sql)
 c. setting config database pada codeigniternya
 d. ubah base_url sesuai struktur folder masing-masing
 
-*******
-demo
-*******
 
-https://youtu.be/E-0f2VApaYg
