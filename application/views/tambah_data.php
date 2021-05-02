@@ -4,17 +4,18 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>My Books</title>
+    <title>Input</title>
 
     <!-- Bootstrap -->
     <link rel="stylesheet" href="<?=base_url()?>assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="<?=base_url()?>assets/font/glyphicons-halflings-regular.ttf">
 
   </head>
-  <body>
+  <body style="background: #e1f1dd;">
 
     <div class="container" style="text-align: center;">
-      <h1>My Books Input Data</h1>
+    <br>
+      <h1>Janmrrey Books Input Data</h1>
       <hr>
     </div>
 

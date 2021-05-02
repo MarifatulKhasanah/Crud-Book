@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="<?=base_url()?>assets/font/glyphicons-halflings-regular.ttf">
 
   </head>
-  <body>
+  <body style="background: #e1f1dd;">
 
     <div class="container" style="text-align: center;">
       <h1>My Books</h1>

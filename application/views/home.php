@@ -14,10 +14,12 @@
     
 
   </head>
-  <body>
+  <body style="background: #e1f1dd;"> 
+  
 
     <div class="container" >
-      <h1>My Books &nbsp; </h1> <a style="text-align: right;" href="<?=base_url()?>index.php/home/tambah" class="btn btn-info">Add book</a>
+    <br>
+      <h1 style="text-align: center; color: #433520;">Janmrrey Books &nbsp; </h1> <a style="text-align: right;" href="<?=base_url()?>index.php/home/tambah" class="btn btn-info">Add book</a>
       <hr>
       
     </div>
@@ -41,7 +43,7 @@
             <a href="#" class="thumbnail">
               <img src="<?=base_url()?>assets/picture/<?=$data->foto?>" style="max-width:115%; max-height:100%; height:180px" alt="foto">
             </a>
-            <div class="caption">
+            <div class="caption" style="color: #433520;">
               <h3><?php echo $data->name?></h3>
               <p> <?php echo $data->deskripsi ?></p>
               <p>
